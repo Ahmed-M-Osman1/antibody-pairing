@@ -1,10 +1,13 @@
-# Add-Your-Team-Name-Here
+# KittyCats
 
-Our team is from ... and we think proteins are cool 🙌
+We think antibodies are cool 🙌
 
 ### Project Description
-We are working on the `antibody-pairing` challenge.
-To predict using our model, press "Open Application" on the left. 
+We are working on the antibody pairing challenge. Work updates coming up soon!
 
-### Scoreboard
-You can track the performance of our predictor in the [challenge scoreboard](https://biolib.com/biohackathon/antibody-pairing-scoreboard/).
+
+### Team Members
+- Abdullah Al Nahid
+- Atiya Tahira Tasnim
+- Rasha Elkaffas
+- Ahmed M.Osman
